@@ -1,0 +1,57 @@
+baseURL: ""
+languageCode: en-us
+title: Thinking Kuumba
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# menu:
+#       main:
+#         - name: Contact
+#           url: /contact/
+#           weight: 5
+#         - name: Archive
+#           url: /archives/
+#           weight: 10
+params:
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  homeInfoParams:
+    Title: "By Michael Brown"
+
+  socialIcons:
+      - name: instagram
+        url: "https://instagram.com/michaelbrwnjr"
+      - name: threads
+        url: "https://threads.net/michaelbrwnjr"
+      - name: X
+        url: "https://x.com/michaelabrownjr"
