@@ -47,6 +47,7 @@ params:
   showtoc: false
   tocopen: false
   env: production
+  copyright: "Copyright © 2024 MichaelBTech LLC."
 
   homeInfoParams:
     Title: "By Michael Brown"
