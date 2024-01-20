@@ -1,6 +1,8 @@
 baseURL: "https://thinkingkuumba.com"
 languageCode: en-us
 title: Thinking Kuumba
+summary: "A blog about the things I'm thinking about and the things I'm making."
+image: "/images/kuumba.png"
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -44,6 +46,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  env: production
 
   homeInfoParams:
     Title: "By Michael Brown"
