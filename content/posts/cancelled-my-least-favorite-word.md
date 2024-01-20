@@ -1,7 +1,7 @@
 ---
 title: "'Cancelled'. One of My Least Favorite Words"
 summary: Too many shows are biting the dust...
-date: 2024-01-19T08:46:51-05:00
+date: 2024-01-19T10:10:51-05:00
 aliases: ["/cancelled-my-least-favorite-word"]
 draft: false
 ---

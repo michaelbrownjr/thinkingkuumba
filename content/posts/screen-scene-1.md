@@ -1,7 +1,7 @@
 ---
 title: "Screen Scene: Week 1"
 summary: Dive into my weekly mobile mosaic
-date: 2024-01-19T08:46:51-05:00
+date: 2024-01-20T12:14:00-05:00
 aliases: ["/screen-scene-1"]
 draft: false
 ---
