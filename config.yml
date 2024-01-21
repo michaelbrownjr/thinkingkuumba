@@ -27,6 +27,8 @@ outputs:
 #           url: /archives/
 #           weight: 10
 params:
+  social:
+    image: "images/default-social-image.jpg"
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
