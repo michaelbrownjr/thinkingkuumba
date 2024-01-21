@@ -10,13 +10,13 @@
 {{ with .Params.images }} <!-- Check if there are images defined in the post -->
 <meta property="og:image" content="{{ . | absURL }}">
 {{ else }} <!-- Fallback to default image -->
-<meta property="og:image" content="{{ "static/default-social-image.jpg" | absURL }}">
+<meta property="og:image" content="{{ "images/default-social-image.jpg" | absURL }}">
 {{ end }}
 
 {{ with .Params.images }}
 <meta name="twitter:image" content="{{ . | absURL }}">
 {{ else }}
-<meta name="twitter:image" content="{{ "static/default-social-image.jpg" | absURL }}">
+<meta name="twitter:image" content="{{ "images/default-social-image.jpg" | absURL }}">
 {{ end }}
 
 {{- /* Title */}}
