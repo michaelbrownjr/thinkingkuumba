@@ -28,7 +28,7 @@ outputs:
 #           weight: 10
 params:
   social:
-    image: "images/default-social-image.jpg"
+    image: "/default-social-image.jpg"
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
