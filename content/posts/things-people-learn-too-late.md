@@ -1,6 +1,6 @@
 ---
 title: Things People Learn Too Late In Life
-timestamp: 2024-01-20T20:35:00-05:00
+date: 2024-01-20T20:35:00-05:00
 summary: Quick Thought
 alias: ["/things-people-learn-too-late"]
 draft: false
