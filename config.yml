@@ -18,14 +18,12 @@ outputs:
     - RSS
     - JSON
 
-# menu:
-#       main:
-#         - name: Contact
-#           url: /contact/
-#           weight: 5
-#         - name: Archive
-#           url: /archives/
-#           weight: 10
+menu:
+      main:
+        - identifier: about
+          name: "About"
+          url: "/about/"
+          weight: 5
 params:
   social:
     image: "/default-social-image.jpg"
