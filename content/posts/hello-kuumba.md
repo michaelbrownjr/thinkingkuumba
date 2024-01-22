@@ -1,9 +1,14 @@
 ---
-title: "Hello Kuumba"
+title: "About 'Thinking Kuumba'"
 summary: The first of a long journey of creativity and what is Kuumba
 date: 2024-01-19T08:46:51-05:00
 aliases: ["/hello-kuumba"]
 draft: false
+cover:
+  image: "/default-social-image.jpg"
+  alt: "Alternative text for image"
+  caption: ""
+  hiddenInList: true
 ---
 pronounced ***koo-oom-bah***
 >  a Swahili word that is the sixth principle of Kwanzaa which means **"creativity"** and is defined as **"to do always as much as we can, in the way we can, in order to leave our community more beautiful and beneficial than we inherited it"**
@@ -77,4 +82,7 @@ Without further ado, here we go:
 
 ✈️ Travel site: Expedia
 
+Thanks for reading!
+
+![Profile Image](/profileimage.jpeg "Michael")
 
