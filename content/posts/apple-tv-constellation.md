@@ -6,7 +6,7 @@ alias: ["/apple-tv-constellation"]
 draft: false
 cover:
     image: "/Apple_TV_Constellation_Key_Art.jpg"
-    alt: "white candle with yellow flame with a red gradiant background"
+    alt: "Constellation film art showing a woman"
     hiddenInSingle: true
 ---
 
