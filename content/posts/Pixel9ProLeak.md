@@ -26,4 +26,4 @@ The design shift to flat sides, moving away from the Pixel 8's curves, echoes a 
 
 On the front, the symmetrical bezels and single hole-punch cutout for the selfie camera speak of Google's attention to detail and desire for a seamless user experience. Dimensions suggest a subtly altered form factor, with a slightly different aspect ratio for its 6.1-inch screen, indicating a thoughtful consideration of ergonomics and aesthetics.
 
-As we await the official unveil, the [Pixel 9 stands as a testament to Google's evolving design language - a blend of industry trends and unique innovation(https://9to5mac.com/2024/01/24/pixel-9-pro-design-vs-iphone-15/)]. 
+As we await the official unveil, the [Pixel 9 stands as a testament to Google's evolving design language - a blend of industry trends and unique innovation](https://9to5mac.com/2024/01/24/pixel-9-pro-design-vs-iphone-15/). 
