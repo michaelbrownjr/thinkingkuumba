@@ -6,7 +6,7 @@ alias: ["/pixel-9-pro-leak-1"]
 draft: false
 cover:
     image: "/Pixel9LeakObsidian.jpg"
-    alt: "obsidian Pixel 9 Pro floating on a black background"
+    alt: "obsidian Pixel 9 & 9 Pro floating on a black background"
     hiddenInSingle: true
 ---
 
