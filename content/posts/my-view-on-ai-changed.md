@@ -6,7 +6,7 @@ alias: ["/my-view-on-ai-changed"]
 draft: false
 ---
 
-### Artificial Intelligence: Not Just Code, But a Canvas for Creativity**
+### Artificial Intelligence: Not Just Code, But a Canvas for Creativity
 
 Hey there! Recently, I stumbled upon a [fascinating YouTube video](https://youtu.be/y8lgSUuxf1M?si=U-xBv_gsxOKz1EpC) that turned my perspective on AI and creativity on its head. It's a talk by Sinead Bovell with Alexander Manu, a professor of strategic foresight at OCAD University, and trust me, it's a game-changer.
 
