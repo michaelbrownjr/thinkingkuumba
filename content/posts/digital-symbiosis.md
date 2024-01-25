@@ -22,7 +22,7 @@ In this same ideology, imagine the potential of AI in automating aspects of our 
 ### The Value of "Analog Artists"
 In this digital-forward world, the role of traditional, non-digital artists – whom we might term "Analog Artists" – becomes increasingly significant. As AI creates digital art with ease, the human touch in artistry gains a unique value, reminding us of the beauty and irreplaceability of human creativity.
 
-I found a blog titled, "Traditional vs Digital Art: Pros and Cons for Artists" that shared some interesting thoughts relating around this topic falling to an ultimate ideology that I can get behind
+I found a blog titled, ["Traditional vs Digital Art: Pros and Cons for Artists"](https://blog.daisie.com/traditional-vs-digital-art-pros-and-cons-for-artists/#which-is-better-for-artists) that shared some interesting thoughts relating around this topic falling to an ultimate ideology that I can get behind
 
 > Ultimately, the decision between traditional and digital art comes down to personal preference and the direction you want to take your art. Maybe you'll find joy in the texture of a paintbrush, or perhaps you'll be captivated by the endless possibilities of a digital canvas. Either way, the most important thing is to keep creating, experimenting, and finding what brings you the most satisfaction in your artistic journey.
 
