@@ -4,6 +4,7 @@ date: 2024-01-24T13:17:00-05:00
 summary: AI is transforming the creative landscape, not as a replacement for human artists, but as a collaborative tool that democratizes and redefines art and creativity.
 alias: ["/my-view-on-ai-changed"]
 draft: false
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
 ### Artificial Intelligence: Not Just Code, But a Canvas for Creativity

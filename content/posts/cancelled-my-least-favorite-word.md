@@ -4,6 +4,7 @@ summary: Too many shows are biting the dust...
 date: 2024-01-19T10:10:51-05:00
 aliases: ["/cancelled-my-least-favorite-word"]
 draft: false
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 [‘Schmigadoon’ Canceled After Two Seasons at Apple TV+](https://variety.com/2024/tv/news/schmigadoon-canceled-apple-tv-1235876672/)
 

@@ -4,6 +4,7 @@ summary: Dive into my weekly mobile mosaic
 date: 2024-01-20T12:14:00-05:00
 aliases: ["/screen-scene-1"]
 draft: false
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
 I change my lockscreen and homescreen often. Most of the time, I do it to better organize my apps and widgets to prepare me better for the week to come. Other times, I do it just because I'm bored and it's fun to recreate my own identity on my homescreen. It's one of the many reasons why I prefer Android over iOS. Alas, since I change my homescreen and lockscreen often, I figured I'd keep a weekly digital archive of it, accompanied with my philosphy as to why I chose my design.Therefore, today starts to the first of many. Welcome to my **"Screen Scene"**.

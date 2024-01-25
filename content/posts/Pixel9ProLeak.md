@@ -8,6 +8,7 @@ cover:
     image: "/Pixel9LeakObsidian.jpg"
     alt: "obsidian Pixel 9 & 9 Pro floating on a black background"
     hiddenInSingle: true
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
 The recent leak of the Pixel 9 Pro, brought to light by OnLeaks and MySmartPrice, is not just about a new device; it's a narrative of Google's evolving design philosophy. The renders reveal a striking similarity to the rear of the Pixel Fold, signifying a cohesive and mature approach in Google's hardware aesthetics.

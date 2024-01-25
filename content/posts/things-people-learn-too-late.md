@@ -4,6 +4,7 @@ date: 2024-01-20T20:35:00-05:00
 summary: Quick Thought
 alias: ["/things-people-learn-too-late"]
 draft: false
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
 1. Most people are scared of using their imagination

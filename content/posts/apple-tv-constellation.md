@@ -8,6 +8,7 @@ cover:
     image: "/Apple_TV_Constellation_Key_Art.jpg"
     alt: "Constellation film art showing a woman"
     hiddenInSingle: true
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
 Apple TV+ has some pretty good content in the Sci-Fi genre. One of the hardest things I've noticed about sci-fi films is that, if the effects budget is short, the quality of the film will take a big hit. Apple seems to be spending a lot of money on sci-fi content, even if the script and story is average, the visual quality and cinematography is usually top-notch. 

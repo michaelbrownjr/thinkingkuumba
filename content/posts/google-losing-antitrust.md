@@ -4,6 +4,7 @@ date: 2024-01-20T20:47:00-05:00
 summary: The Power of the Defaults
 alias: ["/google-losing-antitrust"]
 draft: false
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
 While I was cutting the grass today, I was listening to "The Daily" from The New York Times talking about the last 2 weeks of the US vs. Google antitrust case. [You should listen to it](https://music.youtube.com/watch?v=sloHGysP7P4&si=HJjNR_cSfaYk9wYb). 
