@@ -1,5 +1,10 @@
 ---
 Title: "Ditch the Buttons, Embrace the Swipe: Navigating Your Galaxy S24" 
+date: 2024-01-28T00:17:00-05:00
+summary: Change your new Galaxy S24 navigational buttons back to gesture swipe
+alias: ["/galaxy-s24-gesture-navigation"]
+draft: false
+ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 
 ---
 
