@@ -7,7 +7,7 @@ draft: false
 ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
-Dave Lee of Bloomberg dropped a nugget in his recent piece on Meta's mixed reality play: it's shaping up to be the Mac vs. PC battle of the 2020s.
+Dave Lee of Bloomberg dropped a nugget in his recent [piece on Meta's mixed reality](https://www.bloomberg.com/opinion/articles/2024-01-16/meta-and-zuckerberg-can-ride-apple-s-vision-pro-coattails-to-a-mixed-reality-win) play: it's shaping up to be the Mac vs. PC battle of the 2020s.
 > I’m more inclined to say it feels like the Mac versus PC battles of the 1990s and 2000s. Steve Jobs offered sleek hardware and software, but it was Bill Gates who taught the world how to use a computer by making it accessible and affordable.
 
 Now, before you roll your eyes at another historical tech analogy, hear me out.
