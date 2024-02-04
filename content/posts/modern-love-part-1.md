@@ -12,7 +12,7 @@ A relationship series at Lifepoint Church Virginia [@lifepointva](instagram.com/
 **James 4:1-3 ESV**
 > [1] What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? [2] You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask. [3] You ask and do not receive, because you ask wrongly, to spend it on your passions. 
 
-####"What do they bring to the table?"
+#### "What do they bring to the table?"
 
 This is a question we ask ourselves and what we ask of others when we're looking at relationships (working, personal, romantic, etc...). However, this question is the wrong question to ask. It's focused on self and what I get out of the relationship. The right question is "What do I bring to the table?". The harsh reality for a lot of people, including myself, is "You can't control other people". The thing that you **can** control is your heart and yourself. Reread James 4:1. 
 
