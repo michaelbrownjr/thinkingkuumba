@@ -1,6 +1,6 @@
 ---
 title: "A24's, 'Civil War' film review!"
-date: 2024-04-29T14:52:17.921Z
+date: 2024-04-28T14:52:17.921Z
 summary: Movies with Michael is back with a new film review
 alias: ["/civil-war-review"]
 draft: false
