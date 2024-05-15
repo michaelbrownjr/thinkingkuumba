@@ -7,7 +7,7 @@ draft: false
 ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
-A relationship series at Lifepoint Church Virginia [@lifepointva](instagram.com/lifepointva)
+A relationship series at Lifepoint Church Virginia [@lifepointva](https://www.instagram.com/lifepointva)
 
 **James 4:1-3 ESV**
 > [1] What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? [2] You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask. [3] You ask and do not receive, because you ask wrongly, to spend it on your passions. 
@@ -24,7 +24,7 @@ If I want trust, I have to be trustworthy. Trustworthiness means I can hold trus
 
 ### 2. Bring Life Giving Words 
 
-**See Psalms 19:14 - ** You can determine the words you bring into the relationship. You are not the victim of the what comes out of your mouth. Your mouth doesn't just take off, they come from your mind and engages. Just to make it simple. You get to control the words coming out of your mouth and they should be graceful and truthful. You can communicate truth without tearing someone down. Jesus spoke hard things to people but he did it with life giving, uplifting words. The Bible says, "out of the overflow of the heart, the mouth speaks". When your heart gets bumped, what words spill out? 
+**See Psalms 19:14** You can determine the words you bring into the relationship. You are not the victim of the what comes out of your mouth. Your mouth doesn't just take off, they come from your mind and engages. Just to make it simple. You get to control the words coming out of your mouth and they should be graceful and truthful. You can communicate truth without tearing someone down. Jesus spoke hard things to people but he did it with life giving, uplifting words. The Bible says, "out of the overflow of the heart, the mouth speaks". When your heart gets bumped, what words spill out? 
 
 You're not a victim of your thoughts. You can have some horrible thoughts in your mouth, but you have total control over if you say them or not. See Proverbs 18:21. You can live in a scarcity mentality because of something someone said you years ago. What is my heart and mind meditating on?  Believe in the best. Choose life, not lies. The enemy is the father of lies. I'm the Bible the only time the enemy has the ability to create anything is him creating lies. 
 
