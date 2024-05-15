@@ -1,6 +1,6 @@
 ---
 title: "Google's AI Future: It's an I/O for a New Generation"
-date: {{ now | date: '%Y-%m-%dT%H:%M:%S%z' }}
+date: 2024-05-15T12:57:00-07:00
 summary: Google is making its AI model Gemini central to its products, from Search to Android. Google is using Gemini to create new features, like more advanced Search results with “AI Overviews,” and to streamline user workflows in products like Gmail. The post also emphasizes Google's commitment to making its AI models helpful and accessible for everyone, including using AI to improve accessibility for people with disabilities.
 alias: ["/google-ai-future"]
 draft: false
