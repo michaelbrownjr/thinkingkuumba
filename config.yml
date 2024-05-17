@@ -3,7 +3,7 @@ languageCode: en-us
 title: Thinking Kuumba
 summary: "A blog about the things I'm thinking about, the things I'm creating, and the things I'm seeing."
 image: "/images/kuumba.png"
-theme: PaperMod
+theme: ["PaperMod"]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
