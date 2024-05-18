@@ -13,6 +13,10 @@ ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook
 
 ## Google's AI Future: It's an I/O for a New Generation
 
+![Sundar Pichai standing on the side of the Google Shoreline stage](/SP_Hero_Update.png)
+
+Google is making its AI model Gemini central to its products, from Search to Android. Google is using Gemini to create new features, like more advanced Search results with “AI Overviews,” and to streamline user workflows in products like Gmail. The post also emphasizes Google's commitment to making its AI models helpful and accessible for everyone, including using AI to improve accessibility for people with disabilities.
+
 Google I/O 2024 was all about AI, specifically how Google is weaving AI into everything it does. Sundar Pichai, Google's CEO,  kicked things off with a simple message: Google is fully in its "Gemini era." Gemini is Google's most capable AI model to date, built to be "multimodal," meaning it can understand and work with different types of input like text, images, video, and code.
 
 **Gemini is a big deal for Google.** It's powering new experiences in almost all of Google's major products, including Search, Photos, Workspace, and Android. In Search, Gemini is enabling "AI Overviews," which provide summarized answers to user queries, incorporating various perspectives from the web. This is launching to U.S. users this week.
