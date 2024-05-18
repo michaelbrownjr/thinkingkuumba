@@ -20,13 +20,13 @@
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Example shadow */
 }
 
-.entry-link img { /* Targets only the image within the link */
+.post-entry { /* Targets only the image within the link */
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   transform-style: preserve-3d;
   perspective: 800px;
 }
 
-.entry-link:hover img {
+.post-entry:hover {
   transform: translateY(-10px) scale(1.05); /* Lifts and slightly enlarges */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adds a shadow */
 }
