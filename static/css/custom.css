@@ -3,25 +3,20 @@
     height: 200px; 
     object-fit: cover; 
   } */
-body {
-  background: linear-gradient(
-    to right,
-    #000033 0%,
-    #000066 25%,
-    #330099 50%,
-    #6600cc 75%,
-    #000066 100%
-  );
-  animation: aurora 10s infinite alternate;
+
+/* Target the image elements within your posts/pages */
+.post-content img, .page-content img {
+  transition: transform 0.3s ease; /* Smooth transition */
+  transform-style: preserve-3d;  /* For better 3D effect */
+  perspective: 800px;           /* Adjust for desired depth */
 }
 
-@keyframes aurora {
-  0% {
-    background-position: 0% 50%;
-  }
-  100% {
-    background-position: 100% 50%;
-  }
+/* Hover state animation */
+.post-content img:hover, .page-content img:hover {
+  transform: translateY(-10px); /* Adjust lift amount */
 }
 
+.post-content img:hover, .page-content img:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Example shadow */
+}
 
