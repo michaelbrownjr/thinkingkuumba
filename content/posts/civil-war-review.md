@@ -4,10 +4,6 @@ date: 2024-04-28T14:52:17.921Z
 summary: Movies with Michael is back with a new film review
 alias: ["/civil-war-review"]
 draft: false
-cover:
-    image: "/civil-war-cover-art.jpg"
-    alt: "Civil War film art"
-    hiddenInSingle: true
 ShareButtons: ["linkedin", "twitter", "threads", "reddit", "whatsapp", "facebook"]
 ---
 
