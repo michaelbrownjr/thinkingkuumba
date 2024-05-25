@@ -24,6 +24,10 @@ menu:
           name: "About"
           url: "/hello-kuumba/"
           weight: 5
+        - identifier: search
+          name: "Search"
+          url: "/search/"
+          weight: 10
 params:
   # social:
   #   image: "/default-social-image.jpg"
@@ -58,5 +62,8 @@ params:
         url: "https://instagram.com/michaelbtech"
       - name: threads
         url: "https://threads.net/michaelbtech"
-      - name: X
-        url: "https://x.com/michaelb_tech"
+      - name: github
+        url: "https://github.com/michaelabrownjr"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/michaelabrownjr/"
+
