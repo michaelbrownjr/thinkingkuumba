@@ -62,7 +62,7 @@ params:
       - name: threads
         url: "https://threads.net/michaelbtech"
       - name: github
-        url: "https://github.com/michaelabrownjr"
+        url: "https://github.com/michaelbrownjr"
       - name: linkedin
         url: "https://www.linkedin.com/in/michaelabrownjr/"
 
