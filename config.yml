@@ -1,6 +1,6 @@
-baseURL: "https://thinkingkuumba.com"
+baseURL: "https://www.MichaelBTech.com"
 languageCode: en-us
-title: Thinking Kuumba
+title: MichaelBTech
 summary: "A blog about the things I'm thinking about, the things I'm creating, and the things I'm seeing."
 theme: ["PaperMod"]
 
@@ -67,7 +67,7 @@ params:
       - name: threads
         url: "https://threads.net/michaelbtech"
       - name: github
-        url: "https://github.com/michaelabrownjr"
+        url: "https://github.com/michaelbrownjr"
       - name: linkedin
         url: "https://www.linkedin.com/in/michaelabrownjr/"
 
