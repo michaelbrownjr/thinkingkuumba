@@ -21,12 +21,17 @@ menu:
       main:
         - identifier: about
           name: "About"
-          url: "/hello-kuumba/"
+          url: "/about/"
           weight: 5
         - identifier: search
           name: "Search"
           url: "/search/"
           weight: 10
+        - identifier: posts
+          name: "Posts"
+          url: "/posts/"
+          weight: 20
+
 params:
   # social:
   #   image: "/default-social-image.jpg"
