@@ -21,5 +21,3 @@ So, what does this mean for us Android customers? It means that by the time the 
 Now, I know this might not be everyone's cup of tea. Some people like the hype of a big annual update. But honestly? I'm starting to see the benefits of Google's approach. It means our phones are constantly evolving and getting better, not just once a year.
 
 With that said, you can checkout the list of all of the new features that's being rolled out for Android today over at [Android.com](https://www.android.com/new-features-on-android). What I'm most excited for is having the ability to edit messages after they've been sent in Google Messages, but there's quite a lot. 
-
-### What do you think of Android's rolling updates? Love 'em or hate 'em? Let me know in the comments!
