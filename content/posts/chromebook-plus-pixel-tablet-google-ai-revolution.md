@@ -5,10 +5,6 @@ draft: true
 summary: "Google's focus on AI and affordable hardware is transforming the tech landscape, as seen in the Chromebook Plus and Pixel Tablet. These innovative devices demonstrate how powerful technology can be accessible to everyone."
 alias: ["/chromebook-plus-pixel-tablet-google-ai-revolution"]
 draft: false
-cover:
-    image: "cover image goes here"
-    alt: "alt text goes here"
-    hiddenInSingle: true
 ShareButtons: ["threads", "reddit", "whatsapp", "facebook"]
 ---
 
