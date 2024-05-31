@@ -23,4 +23,4 @@ I'm glad Google addressed the recenr debacle that has been floading the media la
 
 In the short term this may bring some understanding to the situtation, but the dents in Google Search's armor in the matter of public opinion may take a while to get buffed out. 
 
-See the (full statement on The Keyword)[https://blog.google/products/search/ai-overviews-update-may-2024/]
+See the [full statement on The Keyword](https://blog.google/products/search/ai-overviews-update-may-2024/)
