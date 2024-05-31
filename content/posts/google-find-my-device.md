@@ -12,7 +12,7 @@ It's that time of year again—not just for dusting and decluttering our physica
 
 ## Here's how to Remove Old Devices
 
-1. Sign in to Google Play -> play.google.com
+1. Sign in to Google Play -> [play.google.com](https://play.google.com)
 2. Click on your profile photo
 3. CLick **"Library & Devices"**
 4. Click **"Devices"** on the top navigation bar
