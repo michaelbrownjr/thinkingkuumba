@@ -1,5 +1,5 @@
 ---
-title: "Google Explains Ai Overviews"
+title: "Google Explains AI Overviews"
 date: 2024-05-31T05:38:29Z
 summary: "Google explains AI Overviews’ viral mistakes and updates, defends accuracy"
 alias: ["/google-explains-ai-overviews"]
@@ -7,7 +7,7 @@ draft: false
 ShareButtons: ["threads", "reddit", "whatsapp", "facebook"]
 ---
 
-## Google explains how AI Overviews operates, common issues, and now it got wrong misinterpreted queries:
+Google explains how AI Overviews operates, common issues, and how it got wrong misinterpreted queries:
 
 > AI Overviews work very differently than chatbots and other LLM products that people may have tried out. They’re not simply generating an output based on training data. While AI Overviews are powered by a customized language model, the model is integrated with our core web ranking systems and designed to carry out traditional “search” tasks, like identifying relevant, high-quality results from our index. That’s why AI Overviews don’t just provide text output, but include relevant links so people can explore further. Because accuracy is paramount in Search, AI Overviews are built to only show information that is backed up by top web results.
 
@@ -23,4 +23,4 @@ I'm glad Google addressed the recenr debacle that has been floading the media la
 
 In the short term this may bring some understanding to the situtation, but the dents in Google Search's armor in the matter of public opinion may take a while to get buffed out. 
 
-See the (full statement on The Keyword)[https://blog.google/products/search/ai-overviews-update-may-2024/]
+See the [full statement on The Keyword](https://blog.google/products/search/ai-overviews-update-may-2024/)
