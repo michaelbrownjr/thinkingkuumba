@@ -1,11 +1,11 @@
 ---
-title: "Chromebook Plus Pixel Tablet Google Ai Revolution"
+title: "Chromebook Plus + Pixel Tablet + Google AI Revolution"
 date: 2024-05-31T15:29:30Z
 draft: true
 summary: "Google's focus on AI and affordable hardware is transforming the tech landscape, as seen in the Chromebook Plus and Pixel Tablet. These innovative devices demonstrate how powerful technology can be accessible to everyone."
 alias: ["/chromebook-plus-pixel-tablet-google-ai-revolution"]
 draft: false
-ShareButtons: ["threads", "reddit", "whatsapp", "facebook"]
+ShareButtons: ["threads", "reddit", "X", "facebook"]
 ---
 
 **[Google's New Era for Computing](https://youtu.be/VgAQAZjr_L8?si=aEaaM5ZnjF2_SnJM)**
