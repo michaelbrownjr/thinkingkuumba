@@ -25,7 +25,7 @@ To the right, you'll see only widgets that I use often. Calendar for a quick loo
 
 That's pretty much it. Most of the other apps on my dock are your basic Phone, Messages, Chrome, and Camera apps. And to the right of those, are the AI suggested apps based on my usage and location.
 
-**Bonus** Something I watched recently was Sam Beckman's [Top Android Apps! (June 2024)](https://youtu.be/lQF72qtODZI?si=V-T_zNupUs02xgYE) video with some amazing apps available on Android today. 
+**Bonus:** Something I watched recently was Sam Beckman's [Top Android Apps! (June 2024)](https://youtu.be/lQF72qtODZI?si=V-T_zNupUs02xgYE) video with some amazing apps available on Android today. 
 
 
 Until next time! 👋🏾
