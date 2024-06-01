@@ -1,7 +1,6 @@
 ---
 title: "My Timelines Are Haunting Me"
 date: 2024-05-31T23:05:16Z
-draft: true
 summary: "My timelines have been trying to me me that Google is the new Internet Explorer, and Apple is the future of technology."
 alias: ["/my-timelines-are-haunting-me"]
 draft: false
