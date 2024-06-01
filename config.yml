@@ -33,7 +33,7 @@ menu:
           weight: 20
 
 params:
-  image: "/default-social-image.jpg"
+  images: ["/default-social-image.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -55,10 +55,9 @@ params:
   tocopen: false
   env: production
   copyright: "Copyright © 2024 MichaelBTech LLC."
-
-homeInfoParams:
-  Title: "By Michael Brown"
-  Content: "A blog about the things I'm thinking about and the things I'm making."
+  homeInfoParams:
+    Title: "By Michael Brown"
+    Content: "A blog about the things I'm thinking about and the things I'm making."
   
   socialIcons:
       - name: instagram
