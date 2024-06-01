@@ -57,9 +57,11 @@ params:
   env: production
   copyright: "Copyright © 2024 MichaelBTech LLC."
 
-  homeInfoParams:
+homeInfoParams:
     Title: "By Michael Brown"
     Content: "A blog about the things I'm thinking about and the things I'm making."
+    Image: "favicon-32x32.png"
+
 
   socialIcons:
       - name: instagram
