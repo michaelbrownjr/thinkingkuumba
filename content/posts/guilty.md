@@ -1,7 +1,7 @@
 ---
 title: "Guilty"
 date: 2024-06-01T14:43:29Z
-summary: "Big world news buylt small eternal news"
+summary: "Big world news but small eternal news"
 alias: ["/guilty"]
 draft: false
 ShareButtons: ["threads", "reddit", "twitter", "facebook"]
