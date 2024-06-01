@@ -19,12 +19,6 @@
 <meta name="twitter:image" content="{{ "/default-social-image.png" | absURL }}">
 {{ end }}
 
-{{ with .Params.images }}
-<meta name="threads:image" content="{{ . | absURL }}">
-{{ else }}
-<meta name="threads:image" content="{{ "/default-social-image.png" | absURL }}">
-{{ end }}
-
 {{- /* Title */}}
 <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
 
