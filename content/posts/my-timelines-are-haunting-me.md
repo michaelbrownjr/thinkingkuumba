@@ -4,10 +4,6 @@ date: 2024-05-31T23:05:16Z
 summary: "My timelines have been trying to me me that Google is the new Internet Explorer, and Apple is the future of technology."
 alias: ["/my-timelines-are-haunting-me"]
 draft: false
-cover:
-    image: "/social-card.png"
-    alt: "candle logo"
-    hiddenInSingle: true
 ShareButtons: ["threads", "reddit", "twitter", "facebook"]
 ---
 
