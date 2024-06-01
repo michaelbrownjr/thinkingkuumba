@@ -33,7 +33,7 @@ menu:
           weight: 20
 
 params:
-  images: ["/default-social-image.jpg"]
+  images: ["/opengraph-image.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
