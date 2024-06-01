@@ -59,6 +59,7 @@ params:
 homeInfoParams:
   Title: "By Michael Brown"
   Content: "A blog about the things I'm thinking about and the things I'm making."
+  
   socialIcons:
       - name: instagram
         url: "https://instagram.com/michaelbtech"
