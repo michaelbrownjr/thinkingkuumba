@@ -25,7 +25,7 @@ By association, Pixel phones get dragged into the mud too. Sure, I love my Pixel
 
 My social feeds have been flooded with Apple praise. The sleek design of iPhones, the seamless integration of the Apple ecosystem, the promise of Safari's superior privacy and speed – it's all been incredibly enticing. Even the rumor of Siri getting a major OpenAI upgrade at WWDC has everyone and their mama (not literally because my mom doesn't care :joy: ) buzzing with excitement.
 
-Google, my once trusty sidekick, was being portrayed as the villain, while Apple is constantly being portrayed emerging as the hero. **Is Apple the hero?** 
+Google, my once trusty sidekick, is being portrayed as the villain, while Apple is constantly being portrayed emerging as the hero. **Is Apple the hero?** 
 
 I'm not quite ready to make the switch just yet, but I can't deny the influence my timelines has had on me. I'm considering giving Apple products a try again. Apple products aren't bad by any means, I've just preferred Google powered hardware, software, and services. Admittedly, the laptop I do most of my software engineering and web development for my job is on a M2 Max Macbook Pro. 
 
