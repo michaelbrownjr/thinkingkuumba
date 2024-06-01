@@ -7,6 +7,18 @@
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
+{{ with .Params.images }} <!-- Check if there are images defined in the post -->
+<meta property="og:image" content="{{ . | absURL }}">
+{{ else }} <!-- Fallback to default image -->
+<meta property="og:image" content="{{ "/default-social-image.png" | absURL }}">
+{{ end }}
+
+{{ with .Params.images }}
+<meta name="twitter:image" content="{{ . | absURL }}">
+{{ else }}
+<meta name="twitter:image" content="{{ "/default-social-image.png" | absURL }}">
+{{ end }}
+
 {{- /* Title */}}
 <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
 
