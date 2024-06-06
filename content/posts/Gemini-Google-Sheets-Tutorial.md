@@ -6,9 +6,9 @@ alias: ["/gemini-google-sheets-tutorial"]
 draft: false
 ShareButtons: ["threads", "reddit", "twitter", "facebook"]
 cover: 
-    image: "/gemini-google-sheets.png"
+    image: "/gemini_google_sheets.png"
     alt: "Image of Gemini logo and Google Sheets logo"
     hiddenInSingle: true
 ---
 
-{{< youtube tch2gk26WAU > }}
+{{< youtube tch2gk26WAU >}}
