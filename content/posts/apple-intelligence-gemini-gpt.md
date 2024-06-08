@@ -5,6 +5,10 @@ summary: "Apple Keeps it's AI Name Simple, Google Gets Deep (Space Deep)"
 alias: ["/apple-intelligence-google-gemini"]
 draft: false
 ShareButtons: ["threads", "reddit", "twitter", "facebook"]
+cover:
+    image: "/gemini-siri-google-apple-ia.webp"
+    alt: "Google Gemini logo with Siri"
+    hiddenInSingle: true
 ---
 
 [Mark Gurman at Bloomberg](https://www.bloomberg.com/news/articles/2024-06-07/apple-wwdc-2024-what-to-expect-ai-ipados-18-macos-15-siri-updates-more?srnd=all)
