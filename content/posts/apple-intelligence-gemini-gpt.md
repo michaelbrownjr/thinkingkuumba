@@ -15,7 +15,7 @@ Apple's approach to AI branding, closely tied to its ecosystem and new features,
 
 As anyone would, I took a look into Google's AI "Gemini" and reseached where they go their name from. Here's what I found:
 
-[Jeff Dean, Gemini’s co-technical](https://blog.google/technology/ai/google-gemini-ai-name-meaning/): 
+[Jeff Dean, Gemini’s co-technical lead](https://blog.google/technology/ai/google-gemini-ai-name-meaning/): 
 > Gemini is Latin for “twins.” In astronomy, it’s the name of a constellation associated with Greek mythological twins Castor and Pollux, for which its two brightest stars are named. Naturally, then, the meaning behind our AI model's name is two-fold.
 >
 > For one, a key characteristic of the Gemini zodiac sign is a dual-natured personality, capable of adapting quickly, connecting to a wide range of people, and seeing things from multiple perspectives — themes well suited for what was happening at Google at the time.
