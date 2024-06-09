@@ -15,13 +15,13 @@ ShareButtons: ["threads", "reddit", "twitter", "facebook"]
 
 ![Screen Scene: Week 3](/Screen-Scene-3.png "Home Screen Folded and Unfolded")
 
-This week, my Pixel Fold's home screen is a beautiful symphony of Google's Material You design.  The minimalist aesthetic, accented by the warm, earthy tones of my current theme, creates a truly personalized and inviting experience.
+This week, my Pixel Fold's home screen is a beautiful symphony of Google's Material You design.  *The minimalist aesthetic, accented by the warm, earthy tones of my current theme, creates a truly personalized and inviting experience*.
 
 The dynamic wallpaper, showcasing a stunning Arizona sunset I captured myself, is the undeniable star of the show. Its rich hues of orange, pink, and purple seamlessly blend with the Material You color palette, extending the feeling of serenity throughout the interface.
 
 The layout itself is intentionally sparse, allowing the wallpaper to shine. A few essential apps – Play Store, Maps, Camera, and Photos – are neatly arranged at the bottom, within easy thumb's reach. In the folded view, the large "Verse of the Day" widget anchors the screen, offering daily inspiration with a Bible verse.
 
-Unfolding the Pixel Fold reveals an expanded canvas of possibilities. The "Verse of the Day" widget takes center stage, complemented by a quick glance at the weather and upcoming events. Smart home controls for my "Master Bedroom" and "Michael's Office" lights rest conveniently below, while "Flag Day" and "Father's Day" reminders peek out from the calendar widget, ensuring I never miss an important occasion.
+Unfolding reveals the "Verse of the Day" widget that takes center stage, complemented by a quick glance at the weather and upcoming events. Smart home controls for my "Master Bedroom" and my office lights rest conveniently below, while multiple upcoming reminders peek out from the calendar widget.
 
 Beyond aesthetics, this setup is all about functionality. The Pixel Fold's unique form factor allows for a truly tailored experience. In its folded state, it's a compact powerhouse, perfect for one-handed use and quick interactions. Unfolded, it transforms into a productivity hub, ideal for reading, multitasking, or immersing myself in a good book or video.
 
