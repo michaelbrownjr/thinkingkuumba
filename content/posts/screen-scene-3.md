@@ -1,5 +1,5 @@
 ---
-title: "Screen Scene: Weel 3"
+title: "Screen Scene: Week 3"
 date: 2024-06-09T04:44:12Z
 summary: "Dive into this weeks mobile mosaic"
 alias: ["/screen-scene-3"]
