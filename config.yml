@@ -37,6 +37,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
+  comments: true
 
   ShowReadingTime: true
   ShowShareButtons: true
