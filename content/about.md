@@ -1,8 +1,9 @@
 ---
 title: "About Me"
 date: 2024-01-24T05:52:51-05:00
-summary: The first of a long journey of creativity and what is Kuumba
+summary: Know a little about me
 alias: ["/about"]
 draft: false
+ShareButtons: ["threads", "reddit", "twitter", "facebook"]
 ---
 ### About Me section is under construction
