@@ -11,7 +11,7 @@ cover:
 ShareButtons: ["threads", "reddit", "twitter", "facebook"]
 ---
 
-# WWDC Keynote starts at 1PM ET on June 10th
+## WWDC Keynote starts at 1PM ET on June 10th
 To see my live blog, [follow me on Threads](https://threads.net/michaelbtech)
 
 Once the keynote is over, I'll embed my Threads posts from the live blog here with more deepcuts and insights. 
