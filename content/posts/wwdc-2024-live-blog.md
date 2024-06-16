@@ -11,10 +11,9 @@ cover:
 ShareButtons: ["threads", "reddit", "twitter", "facebook"]
 ---
 
-## WWDC Keynote starts at 1PM ET on June 10th
-To see my live blog, [follow me on Threads](https://threads.net/michaelbtech)
+## WWDC Keynote was on June 10th 2024, and it was a big one
 
-Once the keynote is over, I'll embed my Threads posts from the live blog here with more deepcuts and insights. 
+{{< youtube RXeOiIDNNek >}}
 
 ## visionOS updates
 {{< threads C8Cw8XPPRF9 >}}
