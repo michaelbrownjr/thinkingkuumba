@@ -72,8 +72,8 @@ Overall, these iOS updates focus on enhancing customization options, improving t
 
 {{< threads C8C3wuZP3a9 >}}
 
-Everything announced about Apple Intelligence looks very promising. What makes the whole thing seem more dissapointing is the fact that most, if not all, of it won't be available this fall let alone before 2025; according to [Bloomberg](https://www.bloomberg.com/news/newsletters/2024-06-16/when-is-apple-intelligence-coming-some-ai-features-won-t-arrive-until-2025-lxhjh86w?cmpid=BBD061624_POWERON&utm_medium=email&utm_source=newsletter&utm_term=240616&utm_campaign=poweron). 
+Everything announced about Apple Intelligence looks very promising. What makes the whole thing seem more disappointing is the fact that most, if not all, of it won't be available this fall let alone before 2025; according to [Bloomberg](https://www.bloomberg.com/news/newsletters/2024-06-16/when-is-apple-intelligence-coming-some-ai-features-won-t-arrive-until-2025-lxhjh86w?cmpid=BBD061624_POWERON&utm_medium=email&utm_source=newsletter&utm_term=240616&utm_campaign=poweron). 
 
 Overall, this still felt like the biggest WWDC I've ever witnessed. Apple had to swing for the fences to please shareholders and the stock market. They did a great job doing so, but it doesn't seem like the average consumers are phased. 
 
-What do you think?
+What do you think? Comment below. 
